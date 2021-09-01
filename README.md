@@ -25,32 +25,15 @@ WHEN I test API POST, PUT, and DELETE routes in Insomnia Core
 THEN I am able to successfully create, update, and delete data in my database
 ```
 
-### Walkthrough Video: 37%
-
-* A walkthrough video that demonstrates the functionality of the e-commerce back end must be submitted, and a link to the video should be included in your readme file.
-
-* The walkthrough video must show all of the technical acceptance criteria being met.
-
-* The walkthrough video must demonstrate how to create the schema from the MySQL shell.
-
-* The walkthrough video must demonstrate how to seed the database from the command line.
-
-* The walkthrough video must demonstrate how to start the application’s server.
-
+## Walkthrough Videos
+```
 Set-up Walkthrough: https://drive.google.com/file/d/1yr5LZvEJF_ZLEX-OK9y2fTpjyJJP0EaJ/view
 
-* The walkthrough video must demonstrate GET routes for all categories, all products, and all tags being tested in Insomnia Core.
+Route Walkthrough: https://drive.google.com/file/d/1DLZ904U_7cnWTHlm_DuRiyV2cysaY2EC/view
+```
 
-* The walkthrough video must demonstrate GET routes for a single category, a single product, and a single tag being tested in Insomnia Core.
-
-* The walkthrough video must demonstrate POST, PUT, and DELETE routes for categories, products, and tags being tested in Insomnia Core.
-
-Route Walkthrough: 
-
-## Review
-
-You are required to submit BOTH of the following for review:
-
-* A walkthrough video demonstrating the functionality of the application and all of the acceptance criteria being met.
-
-* The URL of the GitHub repository. Give the repository a unique name and include a readme describing the project.
+## Resources and questions
+```
+Please reach out to me with any questions about this application at lapshaffer@gmail.com
+GitHub: https://github.com/lapshaffer
+```
